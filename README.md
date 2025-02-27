@@ -1,5 +1,4 @@
-# Music-Player
-## Simpli Music Player 🎵
+# Music-Player 🎵
 
 A simple music player built using **Python, Tkinter, and Pygame**.
 
