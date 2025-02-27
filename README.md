@@ -3,11 +3,11 @@
 A simple music player built using **Python, Tkinter, and Pygame**.
 
 ## Files to Include in Your Git Repository
-Must-Have Files
-✅ musicplayer.py (Your Python script)
-✅ README.md (Project description & setup instructions)
-✅ logo.png, play1.png, pause1.png, stop1.png, volume.png, menu.png (Images used in your GUI)
-✅ aa1.gif (Animated GIF used in the UI)
+Must-Have Files  
+✅ musicplayer.py (Your Python script)  
+✅ README.md (Project description & setup instructions)  
+✅ logo.png, play1.png, pause1.png, stop1.png, volume.png, menu.png (Images used in your GUI)  
+✅ aa1.gif (Animated GIF used in the UI)  
 
 ## Features
 ✅ Play, Pause, Stop music  
