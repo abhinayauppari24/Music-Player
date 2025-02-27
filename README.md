@@ -1,14 +1,15 @@
 # Music-Player
-# 1. Files to Include in Your Git Repository
+## Simpli Music Player 🎵
+
+A simple music player built using **Python, Tkinter, and Pygame**.
+
+## Files to Include in Your Git Repository
 Must-Have Files
 ✅ musicplayer.py (Your Python script)
 ✅ README.md (Project description & setup instructions)
 ✅ logo.png, play1.png, pause1.png, stop1.png, volume.png, menu.png (Images used in your GUI)
 ✅ aa1.gif (Animated GIF used in the UI)
 
-# Simpli Music Player 🎵
-
-A simple music player built using **Python, Tkinter, and Pygame**.
 
 ## Features
 ✅ Play, Pause, Stop music  
@@ -16,9 +17,7 @@ A simple music player built using **Python, Tkinter, and Pygame**.
 ✅ Animated GIF background  
 ✅ Simple and lightweight GUI  
 
-## Installation
-
-### Prerequisites
+## Prerequisites
 - Python 3.12
 - Tkinter
 - Pygame
