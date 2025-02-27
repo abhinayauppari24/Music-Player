@@ -18,4 +18,7 @@ Must-Have Files
 ## Prerequisites
 - Python 3.12
 - Tkinter
-- Pygame
+- Pygame  
+
+## Output
+![image](https://github.com/user-attachments/assets/a82f31c0-321d-420e-966f-22ef100cff0c)
